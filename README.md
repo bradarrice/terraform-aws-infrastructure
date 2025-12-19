@@ -30,3 +30,4 @@ Ce projet déploie une infrastructure AWS complète et sécurisée en utilisant 
 terraform init
 terraform plan
 terraform apply
+terraform destroy
